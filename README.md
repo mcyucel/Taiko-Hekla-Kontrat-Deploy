@@ -19,6 +19,10 @@ curl -L https://foundry.paradigm.xyz | bash
 ```
 
 ```
+/root/.bashrc
+```
+
+```
 foundryup
 ```
 
